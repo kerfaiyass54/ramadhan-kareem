@@ -1,10 +1,8 @@
 
 # Ramadan Kareem - Animated Occasion Card
 
-![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
+[![My Skills](https://skillicons.dev/icons?i=docker,bootstrap,css,git,github,html,idea,npm,react)](https://skillicons.dev)
+
 
 🌟 **Ramadan Kareem** is a beautifully animated occasion card designed to celebrate the holy month of Ramadan with vibrant visuals, interactive elements, and multilingual support. This project transforms your digital space with a dynamic, culturally rich experience that reflects the spirit of Ramadan.
 
